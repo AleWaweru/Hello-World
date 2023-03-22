@@ -174,7 +174,7 @@ not required
 - Twitter: [@twitterhandle](https://twitter.com/home)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/alex-waweru-2b2701180/)
 
-👤 
+
 
 
 
