@@ -1,4 +1,3 @@
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -40,23 +39,12 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>HTML</li>
+    <li>CSS</li>
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
@@ -174,11 +162,18 @@ not required
 - Twitter: [@twitterhandle](https://twitter.com/home)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/alex-waweru-2b2701180/)
 
-👤 
+
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://google.com)
 
 <!-- FUTURE FEATURES -->
 
@@ -232,7 +227,7 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](LICENSE) licensed.
+This project is [MIT](./MIT.md)(LICENSE) licensed.
 
 
 
